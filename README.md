@@ -1,7 +1,7 @@
 # emoji-decoder
 
 
-# HTML-CSS-JS
+# React
 
 Did you ever get confused about any emoji that your friend sent you,Here is the solution look at my Emoji Interpretor app,this will tell you meaning of the emoji.
 
